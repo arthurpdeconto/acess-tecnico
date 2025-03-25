@@ -9,8 +9,7 @@
 <ul>
 <li>Os pontos de acessibilidade mais importantes são pra mim Semântica e Legibilidade, tendo um site bem estrutura é muito importante para todos os usuários, ter um site legível para todos é vamos ser honestos o mínimo.  conteúdo está estruturado de forma semântica<br>
 O uso de cabeçalhos  parágrafose listas serve para estruturar os conteúdos na página de forma semântica e dão significado ao texto</li>
-</ul>
-<p>O idioma da página está indicado no HTML<br>
+O idioma da página está indicado no HTML<br>
 Os screen-readers necessitam de saber em que linguagem está escrita a página para adaptarem a forma como vão ler os conteúdos</p>
 <hr>
 <ul>
